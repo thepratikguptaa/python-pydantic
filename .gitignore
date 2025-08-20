@@ -1,2 +1,5 @@
+.vscode/
+
+
 # Virtual environments
-.venv
+.venv/
